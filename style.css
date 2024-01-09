@@ -1,0 +1,158 @@
+#main {
+
+    background-color: white;
+}
+
+#hautdroite {
+    font-family: sans-serif;
+    font-size: 13.5px;
+    display: flex;
+    justify-content: flex-end;
+    height : 15 px;
+    margin-top: 15px;
+    align-items: center;
+
+}
+
+#gmail {
+    margin-left: 15px;
+}
+
+#images {
+    margin-left: 15px;
+}
+
+#logochelou {
+    margin-left: 20px;
+}
+
+#pdpgmail {
+    margin-left: 10px;
+    margin-right: 20px;
+    height : 30px;
+}
+
+#logo {
+    height: 100%;
+    margin-top:200.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#centre {
+    margin-top:29px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#barrondie {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    border: 1px solid #DCDCDC;
+    width: 575px;
+    height:45px;
+    border-radius:30px;
+
+}
+
+#barre {
+    display: flex;
+    justify-content: left;
+   
+}
+
+#barrecherche {
+    width:350px;
+    padding:10px;
+    opacity:1;
+    border: none;
+    color: black;
+    background-color: transparent;
+    outline: none;
+    font-size: 20px;
+}
+
+#igc{
+    opacity:0.3;
+    margin-top: 3px;
+    margin-left: 12px;
+}
+
+#idr {
+    margin-left: 80px;
+}
+
+#boutons{
+    border: none;
+    margin-top: 37px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bdr{
+    margin-left: 30px;
+    padding: 10px 20px;
+    border: none;
+    color:black;
+    opacity:0.7;
+    height:25;
+}
+
+#bgc{
+    padding: 10px 20px;
+    border: none;
+    color:black;
+    opacity:0.6;
+    height:25;
+}
+
+#francais {
+    margin-top:10px;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: 13.5px;
+}
+
+.soulignement{
+    text-decoration: none;
+}
+
+#bas{
+    margin: 0px;
+    width: 100%;
+    justify-content: left;
+    font-family: sans-serif;
+    font-size: 15px;
+    background-color: #DCDCDC;
+}
+
+#bahaut {
+    margin-left:1;
+    height:100%
+}
+
+#abysse {
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    align-items: center;
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+
+#gauche{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#droite{
+    display: flex;
+    justify-content: space-evenly;
+}
